@@ -1,0 +1,23 @@
+body {
+  background-color: #d4f1f4;
+}
+
+h1 {
+  color: #05445e;
+  font-family: 'Playfair Display', serif;
+}
+
+.list .list_item {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  color: #000000;
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
